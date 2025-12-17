@@ -13,7 +13,7 @@ The SHL Assessment Recommender helps HR professionals and recruiters find the mo
 
 The following diagram illustrates the architecture of the SHL Assessment Recommender system:
 
-![System Architecture](image/diagram.png)
+![System Architecture]
 
 ## Features 🌟
 
@@ -25,7 +25,7 @@ The following diagram illustrates the architecture of the SHL Assessment Recomme
 
 ## Demo 🎥
 
-A live demo is available at: [http://localhost:8503](https://shl-assessment-recommendation-system.streamlit.app/)
+A live demo is available at: [http://localhost:8501/](https://shl-assessment-recommendation-system.streamlit.app/)
 
 link for endpointapi : [Endpint](https://nj1995-shl-epo.hf.space)
 
@@ -93,4 +93,4 @@ GET /api/recommend?query=your+query+here
 Email: [godugusaikarthik847@gmail.com](mailto\:godugusaikarthik847@gmail.com)
 
 LinkedIn: [G Naga Sai Karthik](https://www.linkedin.com/in/naga-sai-karthik/)
->>>>>>> 1b026af (Initial commit)
+>>>>>>>  (Initial commit)
